@@ -6,5 +6,4 @@ Hi there 👋 </br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">
 <img src= "images/LearnLive.png" width=400>
 </a>
-<img src="https://lh3.googleusercontent.com/gtqlF_kRTPvsmsPx2kQTUdtuTfZfnt4SQn9Cbc0QXcuNJJjZPuUHkSQVhXDMMjA3j4P_4g=s162"></br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">LearnLive - YouTube Channel</a>
