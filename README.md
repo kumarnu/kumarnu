@@ -5,5 +5,5 @@ Hi there 👋 </br>
 💼 See my full portfolio at https://nitish-profile.netlify.app/</br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">
 <img src= "images/LearnLive.png" width=400>
-</a>
+</a></br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">LearnLive - YouTube Channel</a>
