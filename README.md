@@ -8,7 +8,8 @@ Hi there 👋 </br>
 💬 Ask me about MERN Stack, Business Process Management, Java, Database</br>
 📫 Reach out to me at nitish.corporate94@gmail.com</br>
 ## Find me around the web 🌎
-💼 See my full portfolio at https://nitish-profile.netlify.app/</br></br></br>
+💼 See my full portfolio at https://nitish-profile.netlify.app/</br>
+📄 Personal Blogs at https://learnwithnitish.wordpress.com/</br></br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">
 <img src= "images/LearnLive.png" width=400>
 </a></br>
