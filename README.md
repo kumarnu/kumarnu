@@ -1,7 +1,7 @@
 Hi there 👋 </br>
 ## Who Am I ? 👨
 Versatile Senior Software Developer with more than 4 years of experience in production-level projects and interacting with international clients - The Hershey, Metro Systems, Mondelez International, and Verizon. A self-directed leader with talent at cultivating a collaborative and supportive team environment. I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation. </br>
-🌱 I’m currently learning MERN Stack and have developed clone of major web applications:</br>
+🌱 I’m currently learning MERN Stack and have developed clone of major web applications:</br></br>
  &nbsp; &nbsp; &nbsp;Facebook</br>
  &nbsp; &nbsp; &nbsp;Amazon</br>
  &nbsp; &nbsp; &nbsp;WhatsApp</br>
