@@ -18,12 +18,10 @@ Versatile Senior Software Developer with more than 4 years of experience in prod
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">LearnLive - YouTube Channel</a>
 
 ## Clients Worked With 👥
-
-Solarized dark             |  Solarized dark 
-:-------------------------:|:-------------------------:
-![](images/Hershey_logo.png)|  ![](images/metrosystems.png)
-
-<!-- <img src= "images/Hershey_logo.png" width=400>
+<p float="left">
+<img src= "images/Hershey_logo.png" width=400>
 <img src= "images/metrosystems.png" width=400>
-<img src= "images/mondelez.JPG" width=400> -->
+<img src= "images/mondelez.JPG" width=400>
+</p>
+
 
