@@ -11,6 +11,6 @@ Hi there 👋 </br>
 💼 See My Full Portfolio at https://nitish-profile.netlify.app/</br>
 📄 Personal Blogs at https://learnwithnitish.wordpress.com/</br></br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">
-<img src= "images/LearnLive.png" width=400>
+<img src= "images/LearnLive2.png" width=400>
 </a></br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">LearnLive - YouTube Channel</a>
