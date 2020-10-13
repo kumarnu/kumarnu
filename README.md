@@ -19,7 +19,7 @@ Versatile Senior Software Developer with more than 4 years of experience in prod
 
 ## Clients Worked With 👥
 
-Solarized dark             |  Solarized Ocean
+Hersheys                   |  Metro Systems
 :-------------------------:|:-------------------------:
 ![](images/Hershey_logo.png)  |  ![](images/metrosystems.png)
 
