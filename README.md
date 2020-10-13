@@ -19,3 +19,7 @@ Versatile Senior Software Developer with more than 4 years of experience in prod
 
 ## Clients Worked With 👥
 
+<img src= "images/Hershey_logo.png" width=400>
+<img src= "images/metrosystems.png" width=400>
+<img src= "images/mondelez.JPG" width=400>
+
