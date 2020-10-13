@@ -9,7 +9,7 @@ Versatile Senior Software Developer with more than 4 years of experience in prod
  &nbsp; &nbsp; &nbsp;COVID-19 Tracker available in my repositories </br>
 💬 Ask me about MERN Stack, Business Process Management, Java, Database, SAP</br>
 📫 Reach out to me at nitish.corporate94@gmail.com</br>
-## Find me around the web 🌎
+## Find Me Around The Web 🌎
 💼 See My Full Portfolio at https://nitish-profile.netlify.app/</br>
 📄 Personal Blogs at https://learnwithnitish.wordpress.com/</br></br>
 <a href="https://www.youtube.com/channel/UCn1z0wb7dhFTnw_rrMrdaYw/videos">
