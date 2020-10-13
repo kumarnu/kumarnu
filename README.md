@@ -1,6 +1,6 @@
 Hi there 👋 </br>
 🌱 I’m currently learning MERN Stack and have developed clone of major web applications:</br>
- &nbsp; &nbsp; &nbsp; Facebook
+ &nbsp; &nbsp; &nbsp; Facebook</br>
  &nbsp; &nbsp; &nbsp;Amazon</br>
  &nbsp; &nbsp; &nbsp;WhatsApp</br>
  &nbsp; &nbsp; &nbsp;Discord</br>
