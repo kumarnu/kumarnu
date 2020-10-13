@@ -19,9 +19,10 @@ Versatile Senior Software Developer with more than 4 years of experience in prod
 
 ## Clients Worked With 👥
 <p float="left">
-<img src= "images/Hershey_logo.png" width=400>
-<img src= "images/metrosystems.png" width=400>
-<img src= "images/mondelez.JPG" width=400>
+<img src= "images/Hershey_logo.png" width=200>
+<img src= "images/metrosystems.png" width=200>
+<img src= "images/mondelez.JPG" width=200>
+<img src= "images/verizon.png" width=200>
 </p>
 
 
